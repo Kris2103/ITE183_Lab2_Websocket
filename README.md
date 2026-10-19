@@ -82,4 +82,4 @@ Access `http://localhost:8000/` through multiple browser clients simultaneously.
 
 ## License Information
 
-This project is distributed under the terms of the [MIT License](https://www.google.com/search?q=LICENSE).
+This project is distributed under the terms of the [LICENSE](LICENSE).
